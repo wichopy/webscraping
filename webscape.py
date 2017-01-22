@@ -1,3 +1,6 @@
+##Abandoned this file. Was too difficult reading raw html data using the method of terminal + sublime as suggested. 
+#Instead implemented code in jupyter notbook for more clarity.
+
 from urllib import  as urlopen as UReq
 from bs4 import BeautifulSoup as soup
 my_url = "https://www.expedia.ca/Deals"
